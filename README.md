@@ -81,10 +81,4 @@ Dynamic-OSPF-Routing/
 
 ---
 
-## 🏷 Suggested GitHub Repo
-- **Name:** `Dynamic-OSPF-Routing`
-- **Description:** Dynamic routing project using OSPF across 4 Cisco routers in Packet Tracer
-- **Topics:** `cisco`, `ospf`, `dynamic-routing`, `networking`, `packet-tracer`
-
----
 **Author:** Manar Hossam

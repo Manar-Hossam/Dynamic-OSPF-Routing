@@ -61,8 +61,5 @@ router ospf 10
 - All routers are in **Area 0**, forming a full adjacency.
 - DR/BDR election occurs automatically on the shared network (10.0.0.0/24).
 
-## 🖥️ Topology
-(Attach topology screenshot here)
-
 ---
 ✅ **All routes are dynamically discovered via OSPF.**
